@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=PigPigLetsGo&show_icons=true&icon_color=CE1D2D&text_color=718096&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_title=true" />-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=maroongold&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
