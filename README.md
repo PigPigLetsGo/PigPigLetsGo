@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![1](img.shields.io/badge/Github-全球前10名-red)
+![1]([img.shields.io/badge/Github-全球前10名-red](https://img.shields.io/badge/Github-%E5%85%A8%E7%90%83%E5%89%8D10%E5%90%8D-red))
