@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ![1](https://img.shields.io/badge/Github-%E5%85%A8%E7%90%83%E5%89%8D10%E5%90%8D-red)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PigPigLetsGo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PigPigLetsGo&show_icons=true&icon_color=CE1D2D&text_color=718096&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_title=true" />
