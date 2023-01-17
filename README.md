@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![1](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
-
 ![1](https://img.shields.io/badge/Github-%E5%85%A8%E7%90%83%E5%89%8D10%E5%90%8D-red)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PigPigLetsGo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
