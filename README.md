@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=PigPigLetsGo&show_icons=true&icon_color=CE1D2D&text_color=718096&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_title=true" />-->
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true](https://camo.githubusercontent.com/7a24b7c752e32b546939dd60b96ec262647655eb08e1016aaa4b16ec6bacf549/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d636f62616c74))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=maroongold&show_icons=true)
