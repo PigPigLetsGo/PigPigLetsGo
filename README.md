@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello!!!
-<animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202311171425367.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202311171425367.gif" align="center" alt="动图" data-canonical-src="https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202311171425367.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<animated-image data-catalyst="" align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202311171425367.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202311171425367.gif" align="center" alt="动图" data-canonical-src="https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202311171425367.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202311171425367.gif" target="_blank">
 <p align="center">
