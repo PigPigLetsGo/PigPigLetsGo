@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-      <animated-image data-catalyst="" style="width: 34px;"><img src="https://github.com/RoyRao2333/royrao2333/raw/main/assets/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966.gif" alt="动图" style="max-width: 10%; display: inline-block;" data-target="animated-image.originalImage"></animated-image>
-          你好，欢迎来到我的主页
-</div>
-
+Hello!!!
 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bb072bb812e1cc38dddc1466a9b325f983bb7ef63584a608381c9e492b9cdf36/68747470733a2f2f706963342e7a68696d672e636f6d2f76322d64613338353363633166333733653961663537306237613866653337326461375f722e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/bb072bb812e1cc38dddc1466a9b325f983bb7ef63584a608381c9e492b9cdf36/68747470733a2f2f706963342e7a68696d672e636f6d2f76322d64613338353363633166333733653961663537306237613866653337326461375f722e676966" align="center" alt="动图" data-canonical-src="https://pic4.zhimg.com/v2-da3853cc1f373e9af570b7a8fe372da7_r.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/bb072bb812e1cc38dddc1466a9b325f983bb7ef63584a608381c9e492b9cdf36/68747470733a2f2f706963342e7a68696d672e636f6d2f76322d64613338353363633166333733653961663537306237613866653337326461375f722e676966" target="_blank">
