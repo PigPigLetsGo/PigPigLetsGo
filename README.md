@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ![1](https://img.shields.io/badge/Github-%E5%85%A8%E7%90%83%E5%89%8D10%E5%90%8D-red)  ![1](https://img.shields.io/badge/Gieet-%E5%85%A8%E7%90%83%E5%89%8D10%E5%90%8D-pink)  ![1](https://img.shields.io/badge/Language-Java-blue)
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div> -->
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div> -->
 
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=PigPigLetsGo&show_icons=true&icon_color=CE1D2D&text_color=718096&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_title=true" />-->
